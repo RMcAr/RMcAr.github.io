@@ -1,11 +1,11 @@
 # Site settings
 author: Ryan McArthur
-title: 
+title: Supportive Data
 header-img: img/home-bg.png
 email: rmcar522@gmail.com
 copyright_name: Ryan McArthur
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Getting through your Data Science blues
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RMcAr
